@@ -1,3 +1,7 @@
+# Status #
+
+Please note, `irmatool` is **UNMAINTAINED**! The [Privacy by Design foundation](https://privacybydesign.foundation/) has created much more advanced tooling, see for example [irmago](https://github.com/privacybydesign/irmago/).
+
 # irmatool #
 
 irmatool is a CLI tool providing various convenient [IRMA](https://www.irmacard.org) utilities. For this it uses [Gabi](https://github.com/mhe/gabi), a [Go](https://golang.org/) implementation of IRMA's cryptographic primitives. 
